@@ -1,1 +1,2 @@
 # PseudoLikMultiDHeisenberg_Noise
+The code finds the optimal set of interecations which maximize the Log-Pseudo-Likelihood function of a Boltzamann distribution associated to a generalized Heisenberg model with multidimensional spin variables. The hyperparameter ββ, representing the inverse temperature, is treated as a free fitting parameter. This approach helps distinguish genuine information from noise in the data, thereby mitigating overfitting.
