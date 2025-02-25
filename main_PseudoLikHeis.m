@@ -1,6 +1,7 @@
 % This script finds the values of the elements of the matrix J that maximize
 % the single-coutry pseudolikelihood function for each country. The
 % hamiltonian is written as a function of the scalar product of the disciplinary profile of a couple of countries.
+% The temperature is a free fitting parameter, see sigma parameter in the following.
 clear all
 close all
 %
